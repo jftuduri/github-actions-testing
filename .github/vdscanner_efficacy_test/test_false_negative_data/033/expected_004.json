@@ -1,0 +1,93 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.19",
+        "id": "CVE-2023-2183",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.17",
+        "id": "CVE-2023-1387",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.8",
+        "id": "CVE-2022-39324",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.8",
+        "id": "CVE-2022-39229",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.4",
+        "id": "CVE-2022-39307",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.8",
+        "id": "CVE-2022-31130",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.8",
+        "id": "CVE-2022-31123",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.6",
+        "id": "CVE-2022-35957",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.10",
+        "id": "CVE-2022-23552",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.4",
+        "id": "CVE-2022-39306",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.8",
+        "id": "CVE-2022-39201",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.1.6",
+        "id": "CVE-2022-36062",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.2.10",
+        "id": "CVE-2022-23498",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    }
+]

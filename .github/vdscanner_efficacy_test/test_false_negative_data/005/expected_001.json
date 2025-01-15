@@ -1,0 +1,674 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.25.1",
+        "id": "CVE-2024-0727",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.15.1",
+        "id": "CVE-2023-3817",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.9.1",
+        "id": "CVE-2023-3446",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.6.1",
+        "id": "CVE-2023-2650",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2023-0465",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2023-0464",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2023-0286",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.6.1",
+        "id": "CVE-2022-4304",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2022-2097",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2022-1292",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-3450",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-3711",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-3449",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-23840",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2020-1971",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2019-1563",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2019-1551",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2019-1549",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2019-1547",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.34.1",
+        "id": "CVE-2024-5535",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2019-1543",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2018-0739",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2018-0737",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2018-0735",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2017-3738",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-3196",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-8275",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2107",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-3195",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-3712",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3513",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0701",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2017-3735",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1792",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-3194",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2002-20001",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2022-2068",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3569",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1791",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0206",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2021-23841",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0209",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0289",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1789",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.22.1",
+        "id": "CVE-2023-5678",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2106",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3570",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2109",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1794",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2181",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-6302",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0288",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-7056",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1793",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0287",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2020-1967",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-6306",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2017-3731",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2179",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3568",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0798",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3571",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0293",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2180",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-3193",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0797",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2018-0732",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-3197",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0702",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0705",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-7052",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2018-0734",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1790",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-0800",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2022-0778",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2105",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2176",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-1788",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3567",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2177",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0286",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0205",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2178",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-7055",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2015-0204",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2182",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-2183",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-6303",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2023-0466",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2023-0215",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2022-4450",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2016-6304",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2017-3732",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.17.28.2",
+        "id": "CVE-2024-2511",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2014-3572",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:1.1.1l-150500.15.4",
+        "id": "CVE-2017-3736",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "SUSE CVE Database"
+    }
+]

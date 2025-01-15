@@ -1,0 +1,30 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 22.200.200",
+        "id": "CVE-2022-43959",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 21.0.100",
+        "id": "CVE-2022-27228",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 20.0.975",
+        "id": "CVE-2020-13484",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 20.0.0",
+        "id": "CVE-2020-13483",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.40416.0",
+        "id": "CVE-2015-2456",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.40416.0",
+        "id": "CVE-2015-2464",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.40416.0",
+        "id": "CVE-2015-2455",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.40416.0",
+        "id": "CVE-2015-2435",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.30214.0",
+        "id": "CVE-2015-1715",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 5.1.40416.0",
+        "id": "CVE-2015-2463",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 4.0.60831.0",
+        "id": "CVE-2012-0176",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 4.0.60831.0",
+        "id": "CVE-2012-0159",
+        "item_id": "7ecf3ad4c9b47f02ca8c46048f9c71acc7eb8b3d",
+        "source": "National Vulnerability Database"
+    }
+]

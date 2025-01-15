@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package equal to 7.2",
+        "id": "CVE-2017-9948",
+        "item_id": "d8283a90c35f855cb15d39b0c1f2a36cfeacaadb",
+        "source": "National Vulnerability Database"
+    }
+]

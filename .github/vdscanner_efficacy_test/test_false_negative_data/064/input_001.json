@@ -1,0 +1,42 @@
+{
+  "type": "packagelist",
+  "agent": {
+    "id": "001"
+  },
+  "packages": [
+    {
+      "scan": {
+        "id": 0,
+        "time": "2024-08-23T02:19:14+00:00"
+      },
+      "name": "Brave",
+      "size": 0,
+      "description": " ",
+      "location": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application",
+      "install_time": "2024-08-23T01:22:18+00:00",
+      "source": " ",
+      "priority": " ",
+      "vendor": "Brave Software Inc",
+      "version": "0.12.0",
+      "section": " ",
+      "architecture": "i686",
+      "format": "win",
+      "agent_id": "041",
+      "item_id": "3gf68525088c8459fe4b98dd84ade2b06baf1334"
+    }
+  ],
+  "hotfixes": [],
+  "os": {
+    "architecture": "x86_64",
+    "checksum": "1713967856394802400",
+    "hostname": "DESKTOP-EQ4F57D",
+    "major_version": "10",
+    "minor_version": "0",
+    "build": "19045.4291",
+    "name": "Microsoft Windows 10 Pro",
+    "display_version": "22H2",
+    "platform": "windows",
+    "version": "10.0.19045.4291",
+    "scan_time": "2024-06-24T11:06:59+00:00"
+  }
+}

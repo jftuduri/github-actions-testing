@@ -1,0 +1,65 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 17.1.2",
+        "id": "CVE-2023-42916",
+        "item_id": "fa9d02c26416f247eea8bf98edced25a444feada",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 16.0",
+        "id": "CVE-2022-32833",
+        "item_id": "fa9d02c26416f247eea8bf98edced25a444feada",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 16.5.1",
+        "id": "CVE-2022-3970",
+        "item_id": "fa9d02c26416f247eea8bf98edced25a444feada",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 16.1",
+        "id": "CVE-2022-32922",
+        "item_id": "fa9d02c26416f247eea8bf98edced25a444feada",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 115.0.5790.98",
+        "id": "CVE-2023-3728",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54b3f",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0.6167.85",
+        "id": "CVE-2024-0812",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54b3f",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 116.0.5845.140",
+        "id": "CVE-2023-4572",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54b3f",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 109.0.5414.119",
+        "id": "CVE-2023-0471",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54b3f",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0.6045.105",
+        "id": "CVE-2023-5849",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54b3f",
+        "source": "National Vulnerability Database"
+    }
+]

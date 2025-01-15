@@ -1,0 +1,93 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm2",
+        "id": "CVE-2022-31030",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2022-24778",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm4",
+        "id": "CVE-2023-25173",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2022-24769",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm2",
+        "id": "CVE-2022-23648",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm4",
+        "id": "CVE-2023-25153",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2022-23471",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm2",
+        "id": "CVE-2021-32760",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2021-21334",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.6+esm2",
+        "id": "CVE-2021-41103",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.5",
+        "id": "CVE-2020-15257",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2021-43816",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.2.6-0ubuntu1~16.04.4",
+        "id": "CVE-2020-15157",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    }
+]

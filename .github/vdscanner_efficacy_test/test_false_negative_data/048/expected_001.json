@@ -1,0 +1,30 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 4.23.0",
+        "id": "CVE-2023-5166",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 4.23.0",
+        "id": "CVE-2023-5165",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 4.34.2",
+        "id": "CVE-2024-8696",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 4.34.2",
+        "id": "CVE-2024-8695",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    }
+]

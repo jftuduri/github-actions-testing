@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 5.6.1-2",
+        "id": "CVE-2024-3094",
+        "item_id": "df0bb72afaa1b406a7236b678ef11e19a5ab6c6d",
+        "source": "Arch Linux Security Tracker"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-6119",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-0727",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-6237",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2021-23840",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-5535",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-4603",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-2511",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2019-1563",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-5363",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-6129",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-0464",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2022-40735",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-0465",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-0466",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-1255",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-2975",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-5678",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-3446",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-3817",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "Canonical Security Tracker"
+    }
+]

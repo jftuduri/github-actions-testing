@@ -1,0 +1,72 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 7.0.6-0",
+        "id": "CVE-2017-11447",
+        "item_id": "5920dfdf19c05a64efe4cd8bfe39a6d0451a7ef2",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 7.0.2-0",
+        "id": "CVE-2016-5841",
+        "item_id": "5920dfdf19c05a64efe4cd8bfe39a6d0451a7ef2",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 7.0.8-8",
+        "id": "CVE-2018-16329",
+        "item_id": "5920dfdf19c05a64efe4cd8bfe39a6d0451a7ef2",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 7.0.8-8",
+        "id": "CVE-2018-16328",
+        "item_id": "5920dfdf19c05a64efe4cd8bfe39a6d0451a7ef2",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.424.2",
+        "id": "CVE-2012-0785",
+        "item_id": "ab24992589677e5cc902a7fb82dbbf097d4efdfe",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.437",
+        "id": "CVE-2011-4344",
+        "item_id": "ab24992589677e5cc902a7fb82dbbf097d4efdfe",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.509.1",
+        "id": "CVE-2013-2033",
+        "item_id": "ab24992589677e5cc902a7fb82dbbf097d4efdfe",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 3.1.1",
+        "id": "CVE-2013-7440",
+        "item_id": "b1f26c61fa34a986ae51404e5b44c0d457ebe994",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 3.1.1",
+        "id": "CVE-2011-4944",
+        "item_id": "b1f26c61fa34a986ae51404e5b44c0d457ebe994",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 3.1.1",
+        "id": "CVE-2011-1521",
+        "item_id": "b1f26c61fa34a986ae51404e5b44c0d457ebe994",
+        "source": "National Vulnerability Database"
+    }
+]

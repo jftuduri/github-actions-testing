@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 10.3.0",
+        "id": "CVE-2018-6969",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 10.0.3",
+        "id": "CVE-2014-4200",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 10.0.3",
+        "id": "CVE-2014-4199",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    }
+]

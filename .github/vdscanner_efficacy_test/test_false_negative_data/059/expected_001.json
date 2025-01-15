@@ -1,0 +1,30 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 2021-04-10",
+        "id": "CVE-2021-30481",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1533",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 2.10.91.91",
+        "id": "CVE-2020-15530",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1533",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 2.10.91.91",
+        "id": "CVE-2015-7985",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1533",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 2015-05-13",
+        "id": "CVE-2015-4016",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1533",
+        "source": "National Vulnerability Database"
+    }
+]

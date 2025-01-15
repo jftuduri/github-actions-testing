@@ -1,0 +1,65 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.5.6",
+        "id": "CVE-2023-40166",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.5.6",
+        "id": "CVE-2023-40036",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.4.3",
+        "id": "CVE-2022-31902",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.5.6",
+        "id": "CVE-2023-40164",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.4.3",
+        "id": "CVE-2022-31901",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 7.7",
+        "id": "CVE-2019-16294",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.1",
+        "id": "CVE-2023-6401",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 8.5.6",
+        "id": "CVE-2023-40031",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 6.6.9",
+        "id": "CVE-2014-9456",
+        "item_id": "f97fcd7d34fa7b705241093e8ba47c4458017285",
+        "source": "National Vulnerability Database"
+    }
+]

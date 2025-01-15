@@ -1,0 +1,42 @@
+{
+  "type": "packagelist",
+  "agent": {
+    "id": "023"
+  },
+  "packages": [
+    {
+      "scan": {
+        "id": 0,
+        "time": "2024-06-20T10:48:15+00:00"
+      },
+      "name": "Apple Software Update",
+      "size": 0,
+      "description": " ",
+      "location": "C:\\Program Files (x86)\\Apple Software Update\\",
+      "install_time": "2023-11-16T02:27:28+00:00",
+      "source": " ",
+      "priority": " ",
+      "vendor": "Apple Inc.",
+      "version": "2.1.0.127",
+      "section": " ",
+      "architecture": "i686",
+      "format": "win",
+      "agent_id": "035",
+      "item_id": "4fd68625088b8451fd4b98cc84ade2b06bcf1105"
+    }
+  ],
+  "hotfixes": [],
+  "os": {
+    "architecture": "x86_64",
+    "checksum": "1713967856394802400",
+    "hostname": "DESKTOP-EQ4F57D",
+    "major_version": "10",
+    "minor_version": "0",
+    "build": "19045.4291",
+    "name": "Microsoft Windows 10 Pro",
+    "display_version": "22H2",
+    "platform": "windows",
+    "version": "10.0.19045.4291",
+    "scan_time": "2024/04/24 14:10:57"
+  }
+}

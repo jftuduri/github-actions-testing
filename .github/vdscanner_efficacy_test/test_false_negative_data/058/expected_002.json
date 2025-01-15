@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 3.1.17",
+        "id": "CVE-2021-34532",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 3.1.10",
+        "id": "CVE-2021-1723",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    }
+]

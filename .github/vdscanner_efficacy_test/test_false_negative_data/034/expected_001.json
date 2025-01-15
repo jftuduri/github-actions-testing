@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 8.5.15",
+        "id": "CVE-2022-39307",
+        "item_id": "61e71c9fe4bab8cd4a5eb2a10ec16c99f8326c7b",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 8.5.16",
+        "id": "CVE-2022-39324",
+        "item_id": "61e71c9fe4bab8cd4a5eb2a10ec16c99f8326c7b",
+        "source": "National Vulnerability Database"
+    }
+]
