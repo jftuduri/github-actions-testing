@@ -1,0 +1,22 @@
+name: List Project Files
+
+on:
+  pull_request:
+    types: [synchronize, opened, reopened, ready_for_review, closed]
+  workflow_dispatch:
+
+jobs:
+  list_files:
+    name: List Project Files
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: List all files in the repository
+        run: |
+          echo "Listing all files in the repository:"
+          find . -type f | sort
