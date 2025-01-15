@@ -1,0 +1,1080 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.0.2-0ubuntu1.18",
+        "id": "CVE-2024-6119",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.0.2-0ubuntu1.17",
+        "id": "CVE-2024-4603",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-41996",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.0.2-0ubuntu1.17",
+        "id": "CVE-2024-2511",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.0.2-0ubuntu1.17",
+        "id": "CVE-2024-5535",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.0.2-0ubuntu1.16",
+        "id": "CVE-2022-40735",
+        "item_id": "openssl302",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1u",
+        "id": "CVE-2016-7056",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-6306",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-6304",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-6303",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-6302",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2017-3735",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2842",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2182",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2181",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-8176",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1m",
+        "id": "CVE-2015-4000",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-5139",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3568",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0705",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0797",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3513",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3511",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0702",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0195",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2179",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3510",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0292",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-3470",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2176",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0224",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2106",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0288",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3509",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-3194",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3505",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1d",
+        "id": "CVE-2013-0169",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-3196",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2107",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3508",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2180",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2012-2333",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2012-2110",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2177",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3567",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-1788",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3566",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2012-2686",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0800",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-1790",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3507",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3506",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0798",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2013-0166",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0209",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1q",
+        "id": "CVE-2015-3195",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2013-6450",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1g",
+        "id": "CVE-2014-0160",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1e",
+        "id": "CVE-2013-6449",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2013-4353",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1g",
+        "id": "CVE-2014-0198",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0221",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2178",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0286",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.2",
+        "id": "CVE-2021-4044",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0287",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-8610",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0289",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-0293",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2014-3512",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-1789",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1g",
+        "id": "CVE-2010-5298",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-1791",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-1792",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0703",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2015-3197",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0704",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-0799",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1",
+        "id": "CVE-2016-2105",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1n",
+        "id": "CVE-2016-2108",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2109",
+        "item_id": "openssl101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1u",
+        "id": "CVE-2016-7056",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-6306",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-6304",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-6303",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-6302",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2017-3735",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2842",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2183",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2181",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2180",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3507",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3506",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0798",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2178",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0205",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0286",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2182",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0204",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-8176",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1m",
+        "id": "CVE-2015-4000",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3572",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2106",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-5139",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2109",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3570",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0209",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3568",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0206",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0705",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0797",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3566",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3513",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1q",
+        "id": "CVE-2015-3195",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0288",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0702",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0195",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2179",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3510",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3511",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-8275",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-3196",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2107",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3509",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-3194",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1g",
+        "id": "CVE-2014-0198",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0221",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-3470",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3505",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0292",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3508",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.2",
+        "id": "CVE-2021-4044",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0287",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0289",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3571",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-0293",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3512",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-1789",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0800",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-1790",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1g",
+        "id": "CVE-2010-5298",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-1791",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-1792",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0703",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-3197",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0704",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-0799",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2105",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1n",
+        "id": "CVE-2016-2108",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.0.1h",
+        "id": "CVE-2014-0224",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.0.1s",
+        "id": "CVE-2016-2176",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2015-1788",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2014-3567",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.1g",
+        "id": "CVE-2016-2177",
+        "item_id": "openssl101g",
+        "source": "National Vulnerability Database"
+    }
+]

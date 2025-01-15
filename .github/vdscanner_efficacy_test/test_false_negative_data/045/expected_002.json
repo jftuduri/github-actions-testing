@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 6.8.0-40.40~22.04.3",
+        "id": "CVE-2024-36001",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    }
+]

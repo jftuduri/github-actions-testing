@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package equal to 0.992",
+        "id": "CVE-2019-11490",
+        "item_id": "61e71c9fe4bab8cd4a5eb2a10ec16c99f8326c7b",
+        "source": "National Vulnerability Database"
+    }
+]

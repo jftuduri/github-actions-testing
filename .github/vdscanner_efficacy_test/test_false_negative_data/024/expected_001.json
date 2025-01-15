@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.8p1-1",
+        "id": "CVE-2024-6387",
+        "item_id": "1e6915113339de57ade9c25886732793d3421785",
+        "source": "Arch Linux Security Tracker"
+    }
+]

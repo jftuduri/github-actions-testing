@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package equal to 0.5.3",
+        "id": "CVE-2023-35838",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1109",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 0.5.3",
+        "id": "CVE-2021-46873",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1109",
+        "source": "National Vulnerability Database"
+    }
+]

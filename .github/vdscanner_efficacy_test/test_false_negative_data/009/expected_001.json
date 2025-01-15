@@ -1,0 +1,702 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8386",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8384",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8382",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7530",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7525",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7522",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7520",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129",
+        "id": "CVE-2024-7518",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7528",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 128.0",
+        "id": "CVE-2024-6610",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127",
+        "id": "CVE-2024-5697",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 128.0",
+        "id": "CVE-2024-6608",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127.0",
+        "id": "CVE-2024-5695",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127.0",
+        "id": "CVE-2024-5691",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7526",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127.0",
+        "id": "CVE-2024-5689",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7519",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0755",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8385",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0754",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-8900",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7524",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127",
+        "id": "CVE-2024-5698",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0752",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0751",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0750",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0748",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0747",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0746",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0745",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5728",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6209",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6860",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6207",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7529",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6210",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6861",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7521",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5725",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5175",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4579",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6859",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6869",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4573",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8381",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0742",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118.0",
+        "id": "CVE-2023-5170",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5731",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 130.0",
+        "id": "CVE-2024-8383",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4577",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127.0",
+        "id": "CVE-2024-5694",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5721",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0.1",
+        "id": "CVE-2023-4863",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118.0.1",
+        "id": "CVE-2023-5217",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6212",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0743",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5724",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6872",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5723",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4574",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5729",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6204",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4580",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6864",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5722",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6865",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7531",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5171",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 127.0",
+        "id": "CVE-2024-5690",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4583",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4584",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4578",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6856",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4581",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 119.0",
+        "id": "CVE-2023-5730",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5169",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0753",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4585",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-4575",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 117.0",
+        "id": "CVE-2023-5732",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6135",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6205",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6206",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6866",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6211",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5176",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6208",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 120.0",
+        "id": "CVE-2023-6213",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 128.0",
+        "id": "CVE-2024-6609",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0749",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6858",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6863",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6867",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 129.0",
+        "id": "CVE-2024-7527",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6871",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5172",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 121.0",
+        "id": "CVE-2023-6873",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 118",
+        "id": "CVE-2023-5173",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0741",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 122.0",
+        "id": "CVE-2024-0744",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "National Vulnerability Database"
+    }
+]

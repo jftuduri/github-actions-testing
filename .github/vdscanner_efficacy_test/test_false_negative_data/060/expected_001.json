@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.32.3",
+        "id": "CVE-2022-41925",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc54bcc",
+        "source": "National Vulnerability Database"
+    }
+]

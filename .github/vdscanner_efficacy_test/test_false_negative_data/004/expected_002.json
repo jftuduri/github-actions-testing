@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.6.12-0ubuntu1~20.04.3",
+        "id": "CVE-2023-25173",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.6.12-0ubuntu1~20.04.3",
+        "id": "CVE-2023-25153",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    }
+]

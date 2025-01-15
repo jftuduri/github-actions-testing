@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 15.18.5.0",
+        "id": "CVE-2021-35005",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 15.21.2",
+        "id": "CVE-2021-34858",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 14.7.1965",
+        "id": "CVE-2019-18988",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 13.2.9356",
+        "id": "CVE-2018-16550",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 13.1.1548",
+        "id": "CVE-2018-14333",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1101",
+        "source": "National Vulnerability Database"
+    }
+]

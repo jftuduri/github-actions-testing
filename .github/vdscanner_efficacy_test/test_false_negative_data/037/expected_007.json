@@ -1,0 +1,51 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.6",
+        "id": "CVE-2024-7592",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.6",
+        "id": "CVE-2024-6923",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.6",
+        "id": "CVE-2024-8088",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.6",
+        "id": "CVE-2024-6232",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.5",
+        "id": "CVE-2024-4032",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.5",
+        "id": "CVE-2024-0397",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 3.10.12-1~22.04.6",
+        "id": "CVE-2023-27043",
+        "item_id": "bde447c43d09d5967fe308dbf7688d645f1e1d9c",
+        "source": "Canonical Security Tracker"
+    }
+]

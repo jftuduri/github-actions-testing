@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 6.3.0",
+        "id": "CVE-2018-17215",
+        "item_id": "61e71c9fe4bab8cd4a5eb2a10ec16c99f8326c7b",
+        "source": "National Vulnerability Database"
+    }
+]

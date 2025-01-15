@@ -1,0 +1,21 @@
+{
+  "type": "fullscan",
+  "agent": {
+    "id": "001"
+  },
+  "packages": [],
+  "hotfixes": [],
+  "os": {
+    "architecture": "x86_64",
+    "checksum": "1691178971959743855",
+    "hostname": "fd9b83c25f30",
+    "major_version": "10",
+    "minor_version": "0",
+    "build": "14393.7070",
+    "name": "Microsoft Windows Server 2016 Standard",
+    "display_version": " ",
+    "platform": "windows",
+    "version": "10.1.14393.7070",
+    "scan_time": "2023/08/04 19:56:11"
+  }
+}

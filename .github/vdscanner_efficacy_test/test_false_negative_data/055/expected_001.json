@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.0.69.336",
+        "id": "CVE-2018-1167",
+        "item_id": "3fd68525088b8459fd4b98cc84ade2b06baf1234",
+        "source": "National Vulnerability Database"
+    }
+]

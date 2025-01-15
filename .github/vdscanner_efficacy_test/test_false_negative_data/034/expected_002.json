@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 9.4.16",
+        "id": "CVE-2023-4822",
+        "item_id": "fe14be7973e211e281da6d754e1f2966bbf74449",
+        "source": "National Vulnerability Database"
+    }
+]

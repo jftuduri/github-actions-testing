@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 2.1-2~ubuntu20.04.2",
+        "id": "CVE-2022-29800",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 2.1-2~ubuntu20.04.2",
+        "id": "CVE-2022-29799",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Canonical Security Tracker"
+    }
+]

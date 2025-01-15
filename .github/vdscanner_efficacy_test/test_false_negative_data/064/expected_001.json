@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.48.171",
+        "id": "CVE-2023-28360",
+        "item_id": "3gf68525088c8459fe4b98dd84ade2b06baf1334",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 1.59.40",
+        "id": "CVE-2023-52263",
+        "item_id": "3gf68525088c8459fe4b98dd84ade2b06baf1334",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0.13.0",
+        "id": "CVE-2017-18256",
+        "item_id": "3gf68525088c8459fe4b98dd84ade2b06baf1334",
+        "source": "National Vulnerability Database"
+    }
+]

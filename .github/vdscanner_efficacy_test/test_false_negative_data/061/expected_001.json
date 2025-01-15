@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 19.08",
+        "id": "CVE-2019-6144",
+        "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc55c4f",
+        "source": "National Vulnerability Database"
+    }
+]

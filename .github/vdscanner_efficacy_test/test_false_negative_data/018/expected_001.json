@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 0.10.16",
+        "id": "CVE-2013-2882",
+        "item_id": "6addad2bb4b7340e6a59f5cb027e00ede1a3fa36",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 0.10.0",
+        "id": "CVE-2013-4450",
+        "item_id": "6addad2bb4b7340e6a59f5cb027e00ede1a3fa36",
+        "source": "National Vulnerability Database"
+    }
+]

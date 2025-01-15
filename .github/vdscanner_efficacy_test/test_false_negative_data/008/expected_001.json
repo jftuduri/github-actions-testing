@@ -1,0 +1,1346 @@
+[
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38043",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38034",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21354",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38028",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38032",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38250",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38027",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38025",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38022",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38127",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38126",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37984",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-29999",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37987",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30093",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21348",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30063",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38030",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38130",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30001",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-35270",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-35250",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30099",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38199",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38248",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30097",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30090",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4170",
+        "id": "CVE-2024-21408",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-30098",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30082",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-21302",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30096",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30078",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38011",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30076",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38125",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30077",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-30073",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.22621.3447",
+        "id": "CVE-2024-29988",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21377",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30088",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-30071",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38041",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-43461",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30069",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38257",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30065",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30066",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38142",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30040",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21339",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30005",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30084",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38056",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30003",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38107",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21347",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30089",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38114",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38045",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30067",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-28899",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37974",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38017",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37986",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30051",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38152",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37969",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21361",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-35265",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21368",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21304",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30087",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30094",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38102",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-29997",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38252",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38079",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38137",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38191",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21352",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38134",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21405",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21341",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37988",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4291",
+        "id": "CVE-2024-29061",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37981",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21344",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2023-32040",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-30081",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4291",
+        "id": "CVE-2024-29062",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21360",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21362",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30002",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38242",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38033",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21370",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38256",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21367",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30085",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-26184",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21340",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21375",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21343",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37971",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37973",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38223",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38014",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21356",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21372",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21412",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21366",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38143",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21391",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-21416",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38239",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38069",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21358",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21365",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30004",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30091",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38101",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21338",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38054",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-38213",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21369",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37989",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21371",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38117",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4170",
+        "id": "CVE-2024-26169",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21351",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38186",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21406",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38215",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30086",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4170",
+        "id": "CVE-2024-21407",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38019",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21359",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38049",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38013",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38046",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38047",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38050",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38245",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38051",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38052",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38053",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38055",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38057",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38151",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38235",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21350",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38058",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38059",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38010",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30095",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38238",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21355",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38061",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38062",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-30000",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38063",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38064",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37975",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38065",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-30013",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38066",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38217",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38068",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38070",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38115",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38085",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4412",
+        "id": "CVE-2024-29998",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38091",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38145",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38104",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38105",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-30079",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38147",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38119",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38106",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38196",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38112",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38116",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38246",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38249",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37972",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38118",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38237",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38122",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38131",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38132",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38133",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38136",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38140",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38141",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4529",
+        "id": "CVE-2024-30068",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38144",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-29995",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38146",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-37970",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38150",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38153",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38240",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4046",
+        "id": "CVE-2024-21349",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38155",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38161",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4291",
+        "id": "CVE-2024-29052",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38180",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38184",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38048",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38060",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38185",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4651",
+        "id": "CVE-2024-38187",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38193",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38198",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38234",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38243",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38244",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38247",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38241",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-38254",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4894",
+        "id": "CVE-2024-43487",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.19045.4780",
+        "id": "CVE-2024-38178",
+        "source": "National Vulnerability Database"
+    }
+]

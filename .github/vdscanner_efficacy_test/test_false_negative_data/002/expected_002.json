@@ -1,0 +1,100 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-7531",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2014-3566",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2015-2808",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2016-2183",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2020-12413",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2024-6602",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:3.53.1-7.el7_9",
+        "id": "CVE-2020-25648",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2016-9574",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2018-18508",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:3.67.0-4.el7_9",
+        "id": "CVE-2021-43527",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 0:3.79.0-5.el7_9",
+        "id": "CVE-2023-0767",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2016-9074",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-5388",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package default status",
+        "id": "CVE-2023-6135",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Red Hat CVE Database"
+    }
+]

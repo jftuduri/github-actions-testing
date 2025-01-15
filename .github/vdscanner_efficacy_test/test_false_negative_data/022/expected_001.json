@@ -1,0 +1,290 @@
+[
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-43467",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-43461",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38245",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38236",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38234",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38014",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38247",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8450",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8309",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8308",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0974",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0973",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0971",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0970",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0968",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0887",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2017-8590",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38239",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2017-8578",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-8474",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0297",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0191",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0175",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0102",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0975",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0100",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0099",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0055",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2017-8577",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8304",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0969",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38149",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0104",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0296",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38231",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2017-8581",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0972",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8307",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0960",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38249",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-0761",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-38217",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-30081",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2024-29056",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0097",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package default status",
+        "id": "CVE-2017-8580",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2017-0096",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package equal to 6.1.7600",
+        "id": "CVE-2018-8314",
+        "source": "National Vulnerability Database"
+    }
+]

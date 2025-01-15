@@ -1,0 +1,42 @@
+{
+  "type": "packagelist",
+  "agent": {
+    "id": "002"
+  },
+  "packages": [
+    {
+      "scan": {
+        "id": 0,
+        "time": "2024-07-08T07:09:40+00:00"
+      },
+      "name": "FORCEPOINT ONE ENDPOINT",
+      "size": 0,
+      "description": " ",
+      "location": "C:\\Program Files\\Websense\\Websense Endpoint\\",
+      "install_time": "2024-07-08T07:04:16+00:00",
+      "source": " ",
+      "priority": " ",
+      "vendor": "Forcepoint LLC",
+      "version": "19.04",
+      "section": " ",
+      "architecture": "x86_64",
+      "format": "win",
+      "agent_id": "049",
+      "item_id": "cb8feef4300eb9deacf750e08ed3a1514fc55c4f"
+    }
+  ],
+  "hotfixes": [],
+  "os": {
+    "architecture": "x86_64",
+    "checksum": "1713967856394802400",
+    "hostname": "DESKTOP-EQ4F57D",
+    "major_version": "10",
+    "minor_version": "0",
+    "build": "19045.4291",
+    "name": "Microsoft Windows 10 Pro",
+    "display_version": "22H2",
+    "platform": "windows",
+    "version": "10.0.19045.4291",
+    "scan_time": "2024/04/24 14:00:00"
+  }
+}

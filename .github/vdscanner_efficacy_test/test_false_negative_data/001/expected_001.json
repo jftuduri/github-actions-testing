@@ -1,0 +1,23 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than 247.3-7+deb11u6",
+        "id": "CVE-2023-7008",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Debian Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 247.3-7+deb11u6",
+        "id": "CVE-2023-50868",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Debian Security Tracker"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package less than 247.3-7+deb11u6",
+        "id": "CVE-2023-50387",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "Debian Security Tracker"
+    }
+]

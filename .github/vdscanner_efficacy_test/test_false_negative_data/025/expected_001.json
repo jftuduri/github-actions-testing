@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Packages",
+        "condition": "Package less than or equal to 1.76.20",
+        "id": "CVE-2023-30367",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "Packages",
+        "condition": "Package equal to 1.76.20",
+        "id": "CVE-2020-24307",
+        "item_id": "ec465b7eb5fa011a336e95614072e4c7f1a65a53",
+        "source": "National Vulnerability Database"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.20348.2762",
+        "id": "CVE-2024-6197",
+        "source": "National Vulnerability Database"
+    },
+    {
+        "category": "OS",
+        "condition": "Package less than 10.0.20348.2762",
+        "id": "CVE-2024-30092",
+        "source": "National Vulnerability Database"
+    }
+]
