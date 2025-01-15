@@ -7,7 +7,7 @@ on:
 
 jobs:
   list_files:
-    name: List Project Files
+    name: List Project Files (Exclude Hidden Folders)
     runs-on: ubuntu-22.04
 
     steps:
@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: List all files in the repository
+      - name: List all files in the repository (excluding hidden folders)
         run: |
-          echo "Listing all files in the repository:"
-          find . -type f | sort
+          echo "Listing all files in the repository (excluding hidden folders):"
+          find . -type f ! -path "./.*/*" | sort
