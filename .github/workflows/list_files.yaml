@@ -1,0 +1,40 @@
+name: List Project Files
+
+on:
+  pull_request:
+    types: [synchronize, opened, reopened, ready_for_review, closed]
+  workflow_dispatch:
+
+jobs:
+  list_files:
+    name: List Project Files (With Base Branch Info)
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Print base branch
+        run: |
+          if [ "${{ github.base_ref }}" != "" ]; then
+            echo "Base branch: ${{ github.base_ref }}"
+          else
+            echo "No base branch available."
+          fi
+
+      - name: List all files in the repository (excluding hidden folders)
+        run: |
+          echo "Listing all files in the repository (excluding hidden folders):"
+          find . -type f ! -path "./.*/*" | sort
+
+      - name: Show changes compared to base branch
+        run: |
+          if [ "${{ github.base_ref }}" != "" ]; then
+            echo "Changes compared to base branch ${{ github.base_ref }}:"
+            git fetch origin ${{ github.base_ref }}
+            git diff --name-only origin/${{ github.base_ref }}
+          else
+            echo "No base branch to compare with."
+          fi
