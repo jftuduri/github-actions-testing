@@ -6,7 +6,7 @@ Vulnerability detection validation for OS.
 
 ## Event ID: 001
 ### OS
-- macOS 14.0
+- macOS 14.0 
 
 ### Vulnerabilities
 

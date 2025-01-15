@@ -1,0 +1,99 @@
+name: VD Scanner Efficacy Doc Generator
+
+on:
+  pull_request:
+    types: [synchronize, opened, reopened, ready_for_review, closed]
+    paths:
+      - ".github/scripts/efficacy_test_doc_generator/docgen.sh"
+      - ".github/workflows/vdscanner_efficacy_docgen.yml"
+      - ".github/vdscanner_efficacy_test/**"
+  workflow_dispatch:
+
+env:
+  DOC_GEN_SCRIPT_PATH: .github/scripts/efficacy_test_doc_generator/docgen.sh
+  DOC_REPORT: efficacy_test_wrong_formatted_doc
+
+jobs:
+  build:
+    name: VD Scanner Efficacy Doc Generator
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Install dependencies (jq)
+        run: sudo apt-get install jq
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate documentation
+        run: |
+          echo "Step 3: Generating documentation..."
+          echo "Comparing changes with the base branch: ${{ github.base_ref }}"
+          
+          echo "Fetching base branch..."
+          git fetch origin ${{ github.base_ref }} || (echo "Failed to fetch base branch"; exit 1)
+
+          echo "Checking for modified docgen.sh..."
+          SCRIPT_MODIFIED=$(git diff origin/${{ github.base_ref }} --name-only | grep "docgen.sh" || true)
+          echo "SCRIPT_MODIFIED=$SCRIPT_MODIFIED"
+
+          if [ ! -z "$SCRIPT_MODIFIED" ]; then
+            echo "docgen.sh is modified. Running the full script..."
+            bash ${{ env.DOC_GEN_SCRIPT_PATH }} || (echo "docgen.sh failed"; exit 1)
+          else
+            echo "docgen.sh is not modified. Checking for JSON files..."
+            JSON_FILES_MODIFIED=$(git diff origin/${{ github.base_ref }} --name-only | grep ".json" || true)
+            echo "JSON_FILES_MODIFIED=$JSON_FILES_MODIFIED"
+
+            if [ -z "$JSON_FILES_MODIFIED" ]; then
+              echo "No JSON files modified. Exiting..."
+              exit 0
+            fi
+
+            readarray -t TOTAL < <(echo "${JSON_FILES_MODIFIED}")
+            P=""
+            N=""
+            for i in ${TOTAL[@]}; do
+              id=$(basename $(dirname $i))
+              echo "Processing file: $i (ID: $id)"
+              if [[ "$i" =~ "negative" ]]; then
+                N+="$id,"
+                echo "File categorized as negative."
+              else
+                P+="$id,"
+                echo "File categorized as positive."
+              fi
+            done
+
+            if [ ! -z $N ]; then
+              N=${N%?}
+              echo "Negative IDs: $N"
+            else
+              echo "No negative IDs detected."
+            fi
+
+            if [ ! -z $P ]; then
+              P=${P%?}
+              echo "Positive IDs: $P"
+            else
+              echo "No positive IDs detected."
+            fi
+
+            echo "Running docgen.sh with detected IDs..."
+            N=$N P=$P bash ${{ env.DOC_GEN_SCRIPT_PATH }} || (echo "docgen.sh failed with specific IDs"; exit 1)
+          fi
+
+
+      - name: Wrong formatted documentation files
+        run: |
+          MODIFIED_FILES=$(git diff --diff-filter=M --name-only -- .github/*Readme.md)
+          if [ -z ${MODIFIED_FILES} ]; then
+            echo "All files are formatted as expected"
+            exit 0
+          else
+            echo ${MODIFIED_FILES} | tr ' ' '\n'
+            exit 1
+          fi
+
